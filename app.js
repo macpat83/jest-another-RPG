@@ -1,1 +1,2 @@
-console.log("it works")
+const Game = require('./lib/Game');
+new Game().initializeGame();
