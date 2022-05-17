@@ -3,11 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  
   "scripts": {
     "test": "jest"
   },
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/macpat83/jest-another-RPG.git"
@@ -19,6 +17,7 @@
   },
   "homepage": "https://github.com/macpat83/jest-another-RPG#readme",
   "devDependencies": {
-    "jest": "^28.1.0"
+    "jest": "^28.1.0",
+    "jest-cli": "^28.1.0"
   }
 }
